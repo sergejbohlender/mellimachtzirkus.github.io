@@ -1,0 +1,93 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "melli"
+  pageRef = "author"
+  weight = 10
+
+#[[main]]
+#  name = "Parent"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+[[main]]
+  name = "macht"
+  pageRef = "makes"
+  weight = 20
+
+[[main]]
+  name = "zirkus"
+  pageRef = "circus"
+  weight = 30
+
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/melli_hoopster/?hl=de"
+  weight = 200
+
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:info@meli-macht-zirkus.de"
+  weight = 300
+
+#[[main]]
+#  identifier = "youtube"
+#  pre = "youtube"
+#  url = "https://www.youtube.com/@anna_melli_juggling7186"
+#  weight = 400
+#
+#[[main]]
+#  identifier = "instagram_anna_and_melli"
+#  pre = "instagram"
+#  url = "https://www.instagram.com/anna_melli_juggling/?hl=de"
+#  weight = 500
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+[[footer]]
+  name = "Impressum"
+  pageRef = "impressum"
+  weight = 1
+
+[[footer]]
+  name = "Datenschutz"
+  pageRef = "privacy"
+  weight = 20
