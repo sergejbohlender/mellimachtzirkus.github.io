@@ -47,10 +47,17 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://www.instagram.com/melli_hoopster/?hl=de"
+  weight = 200
+
+[[main]]
+  identifier = "email"
+  pre = "email"
+  url = "mailto:info@meli-macht-zirkus.de"
+  weight = 300
 
 
 # -- Footer Menu --
@@ -58,12 +65,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Legal Notice"
+  pageRef = "impressum"
+  weight = 1
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 20
