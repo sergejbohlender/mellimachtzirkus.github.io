@@ -1,6 +1,6 @@
 title = "home"
 
-[author]
+[params.author]
 name = "Melanie Auernhammer"
 image = "img/melli.jpg"
 headline = "Artist"
