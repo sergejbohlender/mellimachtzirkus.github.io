@@ -8,6 +8,11 @@
   weight = 10
 
 [[main]]
+  name = "Shows"
+  pageRef = "makes"
+  weight = 20
+
+[[main]]
   name = "Kurse"
   pageRef = "circus"
   weight = 30
