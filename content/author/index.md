@@ -5,7 +5,6 @@ showHero: true
 showAuthor: true
 heroStyle: "background"
 ---
-Seit 10 Jahren begleitet und begeistert mich Zirkus in meinem Leben. Durch mein Studium der Musik- und Bewegungsorientierte Soziale Arbeit und einer Weiterbildung zur Zirkustrainerin
-habe ich Erfahrung im Bereich der Verknüpfung des künstlerischen und pädagogischen Aspekt von Zirkus gesammelt.
+Seit 10 Jahren begleitet und begeistert mich Zirkus in meinem Leben. Durch mein Studium der Musik- und Bewegungsorientierten Sozialen Arbeit sowie einer Weiterbildung zur Zirkustrainerin habe ich umfassende Erfahrungen in der Verbindung künstlerischer und pädagogischer Elemente im Zirkusbereich gesammelt.
 
-Seit Juli 2022 bin ich als Zirkuspädagogin und Artistin selbstständig, biete Zirkuskurse sowie zirkuspädagogische Schulungen an und stehe mit verschiedenen Shows auf der Bühne.
+Seit Juli 2022 arbeite ich als freiberufliche Zirkuspädagogin und Artistin. In dieser Rolle gebe ich Zirkuskurse und führe zirkuspädagogische Schulungen durch, zudem trete ich mit verschiedenen Shows auf.
