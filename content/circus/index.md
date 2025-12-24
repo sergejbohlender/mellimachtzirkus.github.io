@@ -41,16 +41,3 @@ Zu den Aktuellen Terminen:
 {{< button href="https://zirkus-quartier-franken.de/events/2024/einquartiert/" >}}
 {{< icon "link" >}}&nbsp;Zum Training
 {{< /button >}}
-
-
-## Newsletter
-Sie möchten informiert bleiben über Kurs, die ich für Kinder- und Jugendliche anbiete? Dann können
-sie sich hier im Newsletter anmelden:
-Weiterer extra Punkt mit Newsletter:
-Sie möchten auf dem Laufenden bleiben? Hier können sie sich für die Verschiedenen Newsletter
-anmelden:
-
-- Kurse und Veranstaltungen für Kinder und Jugendliche
-- Kurse und Veranstaltungen für Erwachsene
-
-**Link zum Newsletter folgt in Kürze**
