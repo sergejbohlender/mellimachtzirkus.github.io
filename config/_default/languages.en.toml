@@ -1,5 +1,8 @@
 title = "home"
 
+locale = "en"
+label = "English"
+
 [params.author]
 name = "Melanie Auernhammer"
 image = "img/melli.jpg"
