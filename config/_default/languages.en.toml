@@ -7,7 +7,7 @@ headline = "Artist"
 bio = "A little bit about me"
 links = [
   { instagram = "https://www.instagram.com/melli_hoopster/?hl=de" },
-  { email = "mailto:info@meli-macht-zirkus.de" },
+  { email = "mailto:info@melli-macht-zirkus.de" },
   { youtube = "https://www.youtube.com/@anna_melli_juggling7186" },
   { instagram = "https://www.instagram.com/anna_melli_juggling/?hl=de"},
 ]
